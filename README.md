@@ -54,7 +54,7 @@ Additional informations
 
 ### More sensor
 
-If you want to see the temperature of some sensor you can install the `lm-sensor` packet. For disk temperature you can instal the `hddtemp` packet.
+If you want to see the temperature of some sensor you can install the `lm-sensors` packet. For disk temperature you can instal the `hddtemp` packet.
 
 ### Custom config
 
